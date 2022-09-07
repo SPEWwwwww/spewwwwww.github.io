@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://spewwwwww.github.io</id>
+    <title>Gridea</title>
+    <updated>2022-09-07T06:57:46.418Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://spewwwwww.github.io"/>
+    <link rel="self" href="https://spewwwwww.github.io/atom.xml"/>
+    <subtitle>Wubba lubba dub dub.</subtitle>
+    <logo>https://spewwwwww.github.io/images/avatar.png</logo>
+    <icon>https://spewwwwww.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[中药学·第七章]]></title>
+        <id>https://spewwwwww.github.io/post/zhong-yao-xue-di-qi-zhang/</id>
+        <link href="https://spewwwwww.github.io/post/zhong-yao-xue-di-qi-zhang/">
+        </link>
+        <updated>2022-09-07T06:22:07.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="中药的剂量与用法">中药的剂量与用法</h1>
+<h1 id="第一节-中药的剂量">第一节 中药的剂量</h1>
+<p><strong>概念</strong></p>
+<p>临床应用时的分量，也称用量</p>
+<p><strong>关键词</strong></p>
+<p><em>成人、一日量、干燥、汤剂</em></p>
+<p><strong>影响因素</strong></p>
+<p>药物性质，剂型、配伍、用药目的，年龄、体质、病情、性别、职业、生活习惯，地区、季节、居住环境</p>
+<h1 id="第二节-中药的用法">第二节 中药的用法</h1>
+<p><strong>概念</strong></p>
+<p>中药的应用方法。</p>
+<p>一、给药途径</p>
+<p>二、应用形式</p>
+<p><strong>三、汤剂煎煮法：</strong></p>
+<ol>
+<li>打碎先煎：附子、鳖甲</li>
+<li>后下：薄荷、肉桂</li>
+<li>布包煎：粉末、种子</li>
+<li>不入煎：胶质—烊化；液态—兑服</li>
+<li>贵重：散剂冲散</li>
+</ol>
+<p>🔅<strong>四、服药法</strong>🔅</p>
+<p>1.服药时间：</p>
+<p><code>饭后</code>服—<code>对肠胃有刺激性的药物及消食药</code>；</p>
+<p><code>空腹</code>服—<code>补益药</code>（多滋腻碍胃）；<code>驱虫药</code>；<code>攻下药</code>；</p>
+<p><code>晨起空腹</code>服—<code>峻下逐水药</code>；</p>
+<p>一般药物，无论饭前还或饭后服，<code>服药与进食都应间隔1小时左右</code>，以免影响药物与食物的消化吸收与药效的发挥。</p>
+<p>2.服药方法：</p>
+<p>汤剂，丸剂，散剂、粉剂，膏剂，颗粒剂、糖浆剂</p>
+<p><em><code>危重患者宜少量频服；呕吐患者可浓煎药汁，少量频服</code>；神志不清或其他原因不能口服的患者可采用<code>鼻饲给药法</code>。</em></p>
+<p><em>用发汗、泻下、清热药时，通常<code>得汗、泻下、热降即可停药</code>，适可而止，<code>不必尽剂</code>，以免太过损伤人体正气。</em></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中药学·第六章]]></title>
+        <id>https://spewwwwww.github.io/post/zhong-yao-xue-di-liu-zhang/</id>
+        <link href="https://spewwwwww.github.io/post/zhong-yao-xue-di-liu-zhang/">
+        </link>
+        <updated>2022-09-06T15:21:20.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="中药的用药禁忌">中药的用药禁忌</h1>
+<p>中药的用药禁忌主要包括<code>配伍禁忌、证候用药禁忌、妊娠禁忌和服药饮食禁忌</code>四个方面</p>
+<h1 id="第一节-配伍禁忌">第一节 配伍禁忌</h1>
+<p>🔅**“十八反”**🔆</p>
+<p>歌诀最早见于金·张子和《儒门事亲》：</p>
+<p><code>“本草明言十八反，半蒌贝蔹及攻乌，藻戟遂芫俱战草，诸参辛芍叛藜芦。”</code></p>
+<p><strong>“十九畏”</strong></p>
+<p>歌诀首见于明·刘纯《医经小学》：</p>
+<p>“硫磺原是火中精，朴硝一见便相争，水银膜与砒霜见，狼毒最怕密陀僧，巴豆性烈最为上，偏与牵牛不顺情，丁香莫与郁金见，牙硝难合金三棱，川乌、草乌不顺犀，人参最怕五灵脂，官桂善能调冷气，若逢石脂便相欺，大凡修合看顺逆，炮制配伍莫相依“</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中药学·第五章]]></title>
+        <id>https://spewwwwww.github.io/post/zhong-yao-xue-di-wu-zhang/</id>
+        <link href="https://spewwwwww.github.io/post/zhong-yao-xue-di-wu-zhang/">
+        </link>
+        <updated>2022-09-06T14:48:26.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="中药的配伍">中药的配伍</h1>
+<p><strong>概念</strong></p>
+<p>按照病情的不同需要和中药的药性功用特点，有选择地将两种或者两种以上的中药配合在一起应用，称作中药的配伍。</p>
+<p><strong>目的</strong></p>
+<ol>
+<li>增效</li>
+<li>降低毒副作用（安全）</li>
+<li>适应病证</li>
+</ol>
+<p><strong>中药七情</strong></p>
+<p>前人将单味药的应用同药与药之间的配伍关系称作中药的七情</p>
+<p>单行、相须、相使、想杀、相畏、相反、相恶</p>
+<p>1.<strong>单行</strong></p>
+<p>单用一味中药治疗某种病情单一的疾病，符合简便廉验原则</p>
+<p><code>特殊情况：“分遣使者，微服单行”。</code></p>
+<p><em>独参汤</em></p>
+<p>2.<strong>相须</strong></p>
+<p><code>两种性能功效相似</code>的中药配合使用，<code>增强原有药物的功效</code>。</p>
+<p>3.<strong>相使</strong></p>
+<p>性能功效方面有某些共性，或性能功效虽不相同，但<code>治疗目的一致</code>的中药配合应用，以其中一种中药为主、另一种中药为辅，两药合用，<code>辅药可以提高主药的功效</code>。</p>
+<p>4.<strong>相杀</strong></p>
+<p>一种中药能够降低或者消除另一种中药的毒性或者副作用</p>
+<p>5.<strong>相畏</strong></p>
+<p>一种中药的毒性或者副作用能被另一种中药降低或者消除</p>
+<p><code>半夏畏生姜</code></p>
+<p>6.<strong>相反</strong></p>
+<p>两种中药同时用能产生或者<code>增强毒性或副作用</code></p>
+<p>7.<strong>相恶</strong></p>
+<p>一种中药能使另一种中药<code>原有功效降低</code></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中药学·第四章]]></title>
+        <id>https://spewwwwww.github.io/post/zhong-yao-xue-di-si-zhang/</id>
+        <link href="https://spewwwwww.github.io/post/zhong-yao-xue-di-si-zhang/">
+        </link>
+        <updated>2022-09-03T05:54:52.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="中药的性能">中药的性能</h1>
+<p><strong>概念</strong></p>
+<p><code>中药的性能是中药作用的基本性质和特征的高度概括。</code>是依据<code>用药后的机体反应</code>归纳出来的</p>
+<p><strong>药性理论</strong></p>
+<p><code>包括四气五味、升降浮沉、归经、有毒无毒等。</code></p>
+<p><strong>中药的性状</strong></p>
+<p>药物性状、颜色、气味、滋味、质地</p>
+<p><code>中药的自然属性</code></p>
+<h1 id="第一节-四气">第一节 四气</h1>
+<p><code>《神农本草经》</code>序例云：“药有酸咸甘苦辛五味，又有寒热温凉四气”——<code>有关药性基本理论的四气五味的最早概括。</code></p>
+<p>四性以外还有一类<code>平性药</code>：药性的<code>寒热界限不是很明显、药性平和、作用缓和</code>的一类药。</p>
+<p>药性的寒热温凉是由药物作用于人体产生的不同反应和所获得的不同疗效而总结出来的，与所治疗疾病的寒热性质是相对而言的。</p>
+<p><strong>寒凉药作用</strong></p>
+<p>清热泻火、清心开窍、凉血解毒、滋阴除蒸、泻热通便、清热利尿、清化热痰、凉肝息风等</p>
+<p><code>主要用于阳热症</code></p>
+<p>凉—解表热<br>
+寒—清里热</p>
+<p><strong>温热药作用</strong></p>
+<p>温里散寒、暖肝散结、补火助阳、温阳利水、温经通络、引火归元、回阳救逆等</p>
+<p>温—解表寒<br>
+热—温里寒</p>
+<p><code>主要用于阴寒证</code></p>
+<h1 id="第二节-五味">第二节 五味</h1>
+<p><strong>一、辛</strong></p>
+<p><code>“能散能行”；发散、行气、行血</code></p>
+<p>辛味药多用于<code>治表证、风湿痹症及气滞、血瘀之证</code></p>
+<p>（<code>解表药、祛风湿药、行气活血药多有辛味</code>）</p>
+<p>1.“散”：散邪（六淫邪气）；散结</p>
+<p>2.“宣”：宣肺透疹</p>
+<p>3.“通”：通关利窍</p>
+<p>4.“润”：如桂、附、菟丝子</p>
+<p>5.“行”：行气行血</p>
+<p><em>紫苏叶发散风寒；徐长卿祛风除湿；木香行气止痛；川穹活血化瘀</em></p>
+<p><strong>二、甘（淡）</strong></p>
+<p><code>“能补能和能缓”；补益、和中、调和药性和缓急止痛</code></p>
+<p>甘味药多用于<code>治正气虚弱、食积不化、脘腹挛急疼痛及调和药性、中毒解救</code>等</p>
+<p>（<code>滋养补虚、消食和胃、调和药性及缓解疼痛药多有甘味</code>）</p>
+<p>1.“补”：气、血、阴、阳</p>
+<p>2.“和”：和中（中焦）；和味；和毒</p>
+<p>3.“缓”：药性缓和（防风、秦艽、天麻为“风中之润剂”）；缓和药性；<code>缓急止痛（甘草+白芍）</code></p>
+<p><em>人参大补元气；熟地滋补精血；神曲消食和胃；饴糖缓急止痛；甘草调和药性并解药食中毒等</em></p>
+<p><code>过食甘味，易致甘壅，影响运化而减食</code></p>
+<p><strong>三、酸（涩）</strong></p>
+<p>“能收能涩”；收敛、固涩</p>
+<p>酸味药多用于<code>治自汗盗汗、肺虚久咳、久泻久痢、遗精滑精、遗尿遗频、崩带不止等滑脱不禁</code>的病症</p>
+<p>（<code>固表止汗、敛肺止咳、涩肠止泻、固精缩尿、固崩止带的药物多有酸味</code>）</p>
+<p>1.“收敛”</p>
+<p>2.”固涩“</p>
+<p><em>五味子固表止汗；乌梅敛肺止咳；五倍子涩肠止泻；山茱萸涩精止遗；金樱子固精缩尿止带等</em></p>
+<p><code>多食酸损骨坏齿</code></p>
+<p><strong>四、苦</strong></p>
+<p>“能泄、能燥、能坚”；清泻火热、泄降气通、通泄大便、燥湿、坚阴（泻火存阴）</p>
+<p>苦味药多用于<code>治火热证、喘咳、呕恶、便秘、湿证、阴虚火旺</code>等</p>
+<p>（<code>清热泻火、下气平喘、降逆止呕、通利大便、清热燥湿、散寒燥湿、泻火存阴的药物多有苦味</code>）</p>
+<p>1.泄：清泻火热；通泄二便；降泄肺胃气</p>
+<p><em>黄芩、栀子清热泻火；苦杏仁、葶苈子降气平喘；半夏、陈皮降逆止呕；大黄、芒硝泻热通便</em></p>
+<p>2.燥：苦（温）燥湿散寒；苦（寒）燥湿清热</p>
+<p><em>龙胆草、黄连清热燥湿；苍术、厚朴苦温燥湿</em></p>
+<p>3.坚：坚阴如知、柏</p>
+<p><code>知母、黄柏泻火存阴</code>（知母滋阴泻火，黄柏泻火）</p>
+<p><code>过食化燥败胃，少量增加食欲</code></p>
+<p><strong>五、咸</strong></p>
+<p>“能下、能软”；泻下通便、软坚散结</p>
+<p>咸味药多用于<code>治大便燥结、痰核、瘿瘤、癥瘕痞块</code>等证</p>
+<p>（<code>软化坚硬、消散结块的药物多为咸味</code>）</p>
+<p>1.软坚：使肿块顽痰消散</p>
+<p>2.泻下：<code>芒硝泻热通便</code></p>
+<p><em>海藻、牡蛎消散瘿瘤；鳖甲软坚消癥</em></p>
+<p>3.益肾水：降虚火</p>
+<p><strong>六、淡</strong></p>
+<p>“能渗能利”</p>
+<p>淡味药多用于<code>治水肿、脚气浮肿、小便不利</code>等病</p>
+<p>（<code>利水渗湿的药物多为淡味</code>）</p>
+<p><em>如薏苡仁、茯苓、通草、灯芯草、猪苓、泽泻等</em></p>
+<p><strong>七、涩</strong></p>
+<p>“收敛固涩”</p>
+<p><em>如莲子固精止带；赤石脂、禹余粮涩肠止泻；海螵蛸收敛止血等</em></p>
+<h1 id="第三节-升降浮沉">第三节 升降浮沉</h1>
+<p><strong>概念</strong></p>
+<p>表示药物对人体作用的不同<code>趋向性（气的出入方式）</code></p>
+<p><em>顺病位，使药达病所；逆病位，制止病势发展</em></p>
+<p><strong>影响因素</strong></p>
+<p>四气五味、药物质地轻重、炮制方法和配伍</p>
+<p><code>陈皮同升药则升，同降药则降</code></p>
+<h1 id="第四节-归经">第四节 归经</h1>
+<p>金元时期，张元素提出归经理论</p>
+<p><strong>概念</strong></p>
+<p>药物作用的定位概括，即表示<code>药物作用部位</code></p>
+<p><code>归，作用的归属</code></p>
+<p><code>经，脏腑经络的概称</code></p>
+<p><em>归经是指药物对于机体某部分的选择性作用</em></p>
+<p><strong>意义</strong></p>
+<p><code>鉴别相似药，准确用药</code></p>
+<p><strong>中药归经理论</strong></p>
+<p>在<code>中医基本理论指导下，以脏腑、经络学说为基础，以药物所治疗的具体病证为依据</code>，经长期临床实践，从药物的疗效中归纳总结出来的用药理论。</p>
+<p><code>头痛</code>分为以下三类</p>
+<ol>
+<li><code>颈项</code>头痛：羌活</li>
+<li><code>额眉</code>头痛：葛根</li>
+<li><code>两侧</code>头痛：柴胡</li>
+</ol>
+<h1 id="第五节-中药的毒性">第五节 中药的毒性</h1>
+<p><strong>概念</strong></p>
+<p>药物的毒性是<code>药物的偏性</code></p>
+<p>古代中药毒性的含义较广，既认为毒药是药物的总称，毒药是药物的偏性，又认为毒性是毒药毒副作用大小的标志</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中药学·附2]]></title>
+        <id>https://spewwwwww.github.io/post/zhong-yao-xue-fu-2/</id>
+        <link href="https://spewwwwww.github.io/post/zhong-yao-xue-fu-2/">
+        </link>
+        <updated>2022-09-03T05:41:37.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="中药的功效">中药的功效</h1>
+<p><strong>概念</strong></p>
+<p>在中医药理论指导下，中药用于防治疾病的作用或疗效的高度概括。</p>
+<p><code>功效是联系主治和性味归经毒性的枢纽</code></p>
+<p><strong>中药作用</strong></p>
+<ol>
+<li>非医疗作用</li>
+<li>医疗作用</li>
+</ol>
+<ul>
+<li>功效</li>
+<li>不良反应：副作用；毒副作用</li>
+</ul>
+<p><strong>功效分类</strong></p>
+<ol>
+<li>治疗功效：<code>对证治疗功效（治本）</code>；<code>对病治疗功效（治标）</code>；<code>对症治疗功效（治标）</code></li>
+<li>保健</li>
+</ol>
+<p><strong>中药功效基本原理</strong>：</p>
+<p><code>以偏纠偏</code></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中药学·第三章]]></title>
+        <id>https://spewwwwww.github.io/post/zhong-yao-xue-di-san-zhang/</id>
+        <link href="https://spewwwwww.github.io/post/zhong-yao-xue-di-san-zhang/">
+        </link>
+        <updated>2022-09-01T04:56:52.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="中药的炮制">中药的炮制</h1>
+<p>🔅<strong>一、中药炮制目的</strong>🔅</p>
+<p><code>1. 纯净药材，保证质量；分拣药物，区分等级</code></p>
+<p><code>2. 切制饮片，便于调剂制剂</code></p>
+<p><code>3. 干燥药材，便于储藏</code></p>
+<p><code>4. 矫味矫臭，便于服用</code></p>
+<p><code>5. 降低毒副作用，保证安全用药</code></p>
+<p><em>巴豆压油取霜，姜矾水制半夏、天南星等</em></p>
+<p><code>6.  增强药物功效，提高临床疗效</code></p>
+<p><code>7.  改变药物性能，扩大应用范围</code></p>
+<p><em>生天南星加生姜、白矾制后称<code>制南星</code>，功能<code>燥湿化痰</code>、祛风止痉，药性辛温燥烈</em></p>
+<p><em>经牛胆汁制后称<code>胆南星</code>，变为药性凉润、<code>清热化痰</code>、息风定惊</em></p>
+<p><code>8.  引药入经，便于定向用药</code></p>
+<p><strong>二、中药炮制的方法</strong></p>
+<ol>
+<li>修治</li>
+</ol>
+<ul>
+<li>纯净药材</li>
+<li>粉碎药材</li>
+<li>切制药材</li>
+</ul>
+<ol start="2">
+<li>水制</li>
+</ol>
+<ul>
+<li>漂洗</li>
+<li>浸泡</li>
+<li>闷润</li>
+<li>喷洒</li>
+<li><code>水飞：所制粉末细；减少研磨中粉末的飞扬损失</code></li>
+</ul>
+<p><em><code>水飞朱砂</code>、炉甘石、滑石、海蛤壳、雄黄</em></p>
+<ol start="3">
+<li>火制</li>
+</ol>
+<ul>
+<li><code> 炒</code></li>
+</ul>
+<p><em>炒黄、炒焦，炒炭</em></p>
+<ul>
+<li><code>炙</code></li>
+</ul>
+<p><code>常用的辅料有蜜、酒、醋、姜汁、盐水等</code></p>
+<p><em>蜜炙百部、款冬花、枇杷叶——增强<code>润肺止咳</code>之功<br>
+酒炙川穹、当归、牛膝——增强<code>活血</code>之功<br>
+醋炙香附、柴胡——增强<code>疏肝解郁</code>之功<br>
+醋炙芫花、甘遂、京大戟——<code>降低毒性</code><br>
+盐炙杜仲、补骨脂——引药入肾，增强<code>补肾</code>作用<br>
+酒炙常山——<code>减低催吐</code>效果<br>
+姜炙半夏、竹茹——<code>增强止呕</code>作用</em></p>
+<ul>
+<li><code>煅</code></li>
+</ul>
+<p><em><code>用猛火直接或间接煅烧</code></em></p>
+<p><code>间接煅烧</code>是将药物置于<code>密闭容器中（已煅烧过的陶罐）</code>煅烧</p>
+<ul>
+<li><code>煨</code></li>
+</ul>
+<ol start="4">
+<li>水火共制</li>
+</ol>
+<ul>
+<li><code>燀法</code></li>
+</ul>
+<p><em>燀<code>杏仁、桃仁、扁豆——去皮</code></em><br>
+<em>燀<code>马齿苋、天冬——便于晒干储藏</code></em></p>
+<ul>
+<li><code>淬法</code></li>
+</ul>
+<p><em>醋淬自然铜、鳖甲，黄连煮汁淬炉甘石等</em></p>
+<ol start="5">
+<li>其他制法</li>
+</ol>
+<ul>
+<li>制霜</li>
+<li>发酵</li>
+<li>发芽</li>
+<li>精制</li>
+<li>药拌</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中药学·第二章]]></title>
+        <id>https://spewwwwww.github.io/post/zhong-yao-xue-di-er-zhang/</id>
+        <link href="https://spewwwwww.github.io/post/zhong-yao-xue-di-er-zhang/">
+        </link>
+        <updated>2022-09-01T04:45:33.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="中药的产地-采集与贮藏">中药的产地、采集与贮藏</h1>
+<p><strong>一、中药的产地</strong></p>
+<p><code>道地药材：又称地道药材；优质纯真药材的专用名词；</code></p>
+<p><code>历史悠久、产地适宜、品种优良、产量宏丰、炮制考究、疗效突出、带有地域特点的药材</code></p>
+<p><strong>二、中药的采集</strong></p>
+<p><code>按药用部位不同分类：</code></p>
+<ul>
+<li>全草</li>
+<li>叶</li>
+<li>花、花粉</li>
+<li>根、根（块）茎</li>
+<li>树皮、根皮</li>
+</ul>
+<p><strong>三、中药的贮藏</strong></p>
+<p>/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中药学·第一章]]></title>
+        <id>https://spewwwwww.github.io/post/zhong-yao-xue-di-yi-zhang/</id>
+        <link href="https://spewwwwww.github.io/post/zhong-yao-xue-di-yi-zhang/">
+        </link>
+        <updated>2022-08-31T14:36:09.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://spewwwwww.github.io/post-images/1661958765423.jpg" alt="" loading="lazy"></figure>
+<h1 id="中药的起源和中药学的发展">中药的起源和中药学的发展</h1>
+<p><strong>一、原始社会（远古-前21世纪）</strong></p>
+<p>/</p>
+<p><strong>二、夏商周时代（前21世纪-前221年）</strong></p>
+<p>/</p>
+<p><strong>三、秦汉时代（前221-220年）</strong></p>
+<figure data-type="image" tabindex="2"><img src="https://spewwwwww.github.io/post-images/1661957847553.jpg" alt="" loading="lazy"></figure>
+<p><code>《神农本草经》：现存最早的本草专著；载药365种；“三品分类法”</code></p>
+<p><code>初步奠定中药学理论基础</code></p>
+<p><strong>四、三国、两晋、南北朝时代（220-581年）</strong></p>
+<figure data-type="image" tabindex="3"><img src="https://spewwwwww.github.io/post-images/1661957857880.png" alt="" loading="lazy"></figure>
+<p><code>《本草经集注》：梁代陶弘景著；载药730种；首创按药物自然属性分类方法</code></p>
+<p><code>墨写《名医别录》；标志着综合本草模式初步确立，奠定中国古本草的编写体例</code></p>
+<p><strong>五、隋唐、五代十国时期（581-960年）</strong></p>
+<figure data-type="image" tabindex="4"><img src="https://spewwwwww.github.io/post-images/1661957864446.jpg" alt="" loading="lazy"></figure>
+<p><code>《新修本草》：《唐本草》；图文对照；</code></p>
+<p><code>中国历史上第一部官修本草；最早的药典性本草</code></p>
+<p><strong>六、宋、金元时期（960-1368年）</strong></p>
+<figure data-type="image" tabindex="5"><img src="https://spewwwwww.github.io/post-images/1661958062613.jpg" alt="" loading="lazy"></figure>
+<p><code>《经史证类备急本草》：唐慎微著；《证类本草》；载药1746种；</code></p>
+<p><strong>七、明代（1368-1644年）</strong></p>
+<figure data-type="image" tabindex="6"><img src="https://spewwwwww.github.io/post-images/1661958285705.jpg" alt="" loading="lazy"></figure>
+<p><code>《本草纲目》：李时珍著；载药1892种；</code></p>
+<p><code>16世纪中国百科全书；应用系统自然属性分类，这是当时世界上最先进的分类法</code></p>
+<p><strong>八、清代（1616-1911年）</strong></p>
+<figure data-type="image" tabindex="7"><img src="https://spewwwwww.github.io/post-images/1661958514209.jpg" alt="" loading="lazy"></figure>
+<p><code>《本草纲目拾遗》：赵学敏著；</code></p>
+<p><strong>九、民国时期（1912-1949年）</strong></p>
+<p>/</p>
+<p><strong>十、中华人民共和国成立后（1949年10月1日至今）</strong></p>
+<p>/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中药学·总论]]></title>
+        <id>https://spewwwwww.github.io/post/zhong-yao-xue-zong-lun/</id>
+        <link href="https://spewwwwww.github.io/post/zhong-yao-xue-zong-lun/">
+        </link>
+        <updated>2022-08-31T13:16:24.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://spewwwwww.github.io/post-images/1661954922138.jpg" alt="" loading="lazy"></figure>
+<h1 id="一-中药">一、中药</h1>
+<p><strong>概念：</strong></p>
+<p>凡是以中医药理论指导采集、炮制、制剂，说明作用机理，指导临床应用的药物，统称为中药。</p>
+<p><code>中药就是在中医药理论指导下，用于预防、治疗、诊断疾病并具有康复与保健作用的物质。</code></p>
+<p><strong>作用：</strong></p>
+<p><code>中医用以防治疾病、养生康复与保健的主要工具。</code></p>
+]]></content>
+    </entry>
+</feed>
